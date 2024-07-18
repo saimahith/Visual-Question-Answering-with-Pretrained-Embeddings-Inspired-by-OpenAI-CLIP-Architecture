@@ -1,0 +1,1 @@
+# Visual-Question-Answering-with-Pretrained-Embeddings-Inspired-by-OpenAI-CLIP-Architecture
